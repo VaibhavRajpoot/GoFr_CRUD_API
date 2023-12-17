@@ -7,14 +7,6 @@ import (
 	"gofr.dev/pkg/gofr"
 )
 
-type Customer struct {
-	ID     int    `json:"id"`
-	Bname  string `json:"bookname"`
-	Pub    string `json:"publication"`
-	Issuer string `json:"issuername"`
-	Finee  int    `json:"fine"`
-}
-
 type CreateRequest struct {
 	ID          int     `json:"id"`
 	BookName    string  `json:"bookname" validate:"required"`
