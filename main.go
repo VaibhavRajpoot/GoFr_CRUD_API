@@ -75,6 +75,19 @@ func main() {
 
 	})
 
+	app.DELETE("/customerss/{id}", func(ctx *gofr.Context) (interface{}, error) {
+		// Validate the request body
+		name := ctx.PathParam("id")
+
+		_, err := ctx.DB().ExecContext(ctx, "DELETE FROM customers WHERE id = ?", name)
+		if err != nil {
+			return nil, err
+		}
+
+		return nil, err // Return a success message
+
+	})
+
 	app.GET("/customer", func(ctx *gofr.Context) (interface{}, error) {
 		var customers []CreateRequest
 
