@@ -1,6 +1,6 @@
 # CRUD API Using GoFr Framework
 
-This is an API of the Library Management System made using GoLang using the GoFr framework. It contains a single [main.go] (https://github.com/VaibhavRajpoot/GoFr_CRUD_API/blob/main/main.go)file which consists of all the route handles for performing the CRUD operations like Read, Create, Update, Delete operations and all the MySQL queries. It uses the Docker Mysql for storing the records. 
+This is an API of the Library Management System made using GoLang using the GoFr framework. It contains a single main.go file which consists of all the route handles for performing the CRUD operations like Read, Create, Update, Delete operations and all the MySQL queries. It uses the Docker Mysql for storing the records. 
 
 ## Installation
 1. Clone this git repository
