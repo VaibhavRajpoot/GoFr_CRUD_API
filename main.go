@@ -1,12 +1,9 @@
 package main
 
 import (
-	// "encoding/json"
 	"fmt"
-	// "net/http"
-	"gofr.dev/pkg/errors"
-	// "github.com/gorilla/mux"
 
+	"gofr.dev/pkg/errors"
 	"gofr.dev/pkg/gofr"
 )
 
