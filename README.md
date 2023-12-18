@@ -23,7 +23,7 @@ go run main.go
 
 ## UML and Sequence Diagrams
 SEQUENCE DIAGRAM
-<img src="UML & Sequence Diagrams/SequenceDiagram.png" alt="Sequence Diagram" title="Sequence Diagram">
+![My Image](UML & Sequence Diagrams/SequenceDiagram.png)
 
 
 ## Postman Images of working Project
