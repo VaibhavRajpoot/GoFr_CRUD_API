@@ -23,7 +23,7 @@ go run main.go
 
 ## UML and Sequence Diagrams
 SEQUENCE DIAGRAM
-![sequence diagram](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/tree/main/UML%20%26%20Sequence%20Diagrams)
+<img src="https://github.com/VaibhavRajpoot/GoFr_CRUD_API/tree/main/UML%20%26%20Sequence%20Diagrams" alt="Sequence Diagram" title="Sequence Diagram">
 
 
 ## Postman Images of working Project
