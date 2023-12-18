@@ -28,11 +28,10 @@ go run main.go
 
 ## UML & Sequence Diagram
 
-![Sequence Diagram](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/blob/main/UML%20%26%20Sequence%20Diagrams/SequenceDiagram.jpg)
+![SequenceDiagram](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/assets/50841702/c94d90a2-0cbe-405a-b603-36cf673ae23a)
 
-![UML Diagram](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/blob/main/UML%20%26%20Sequence%20Diagrams/UML%20Diagram.jpeg)
+![UML Diagram](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/assets/50841702/0537d58c-5e2d-4f9b-964a-17e314346486)
 ## Screenshots
 
-![Postman with get request](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/blob/main/Working%20Project%20Screenshots/Screenshot%20from%202023-12-18%2007-17-08.png)
-
-![Postman with POST request](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/blob/main/Working%20Project%20Screenshots/Screenshot%20from%202023-12-18%2007-21-33.png)
+![Postman With get request](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/assets/50841702/7137ca7f-a4de-44a4-93d4-998afc608557)
+![Postman with Post Request](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/assets/50841702/863f133b-19c2-428e-804c-69337ba222ea)
