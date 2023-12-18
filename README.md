@@ -1,13 +1,18 @@
+
 # CRUD API Using GoFr Framework
 
-This is an API of the Library Management System made using GoLang using the GoFr framework. It contains a single main.go file which consists of all the route handles for performing the CRUD operations like Read, Create, Update, Delete operations and all the MySQL queries. It uses the Docker Mysql for storing the records. 
+This is an API of the Library Management System made using GoLang using the GoFr framework. It contains a single [main.go](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/blob/main/main.go) file which consists of all the route handles for performing the CRUD operations like Read, Create, Update, Delete operations and all the MySQL queries. It uses the Docker Mysql for storing the records. 
 
-## Installation
+
+## Deployment
+
 1. Clone this git repository
+
 2. Make sure that Go is installed in your system & run the below command for installing the GoFr framework
 
 ```bash
 go get gofr.dev
+
 ```
 3. Now open up the terminal and enter the below-mentioned command to run the MySql docker container and create the table in it
 ```bash
@@ -21,13 +26,13 @@ go run main.go
 ```
 5. Now open up the postman and check the working of all the CRUD operations.
 
-## UML and Sequence Diagrams
-SEQUENCE DIAGRAM
-![My Image](/UML & Sequence Diagrams/SequenceDiagram.jpg)
+## UML & Sequence Diagram
 
+![Sequence Diagram](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/blob/main/UML%20%26%20Sequence%20Diagrams/SequenceDiagram.jpg)
 
-## Postman Images of working Project
+![UML Diagram](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/blob/main/UML%20%26%20Sequence%20Diagrams/UML%20Diagram.jpeg)
+## Screenshots
 
+![Postman with get request](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/blob/main/Working%20Project%20Screenshots/Screenshot%20from%202023-12-18%2007-17-08.png)
 
-
-
+![Postman with POST request](https://github.com/VaibhavRajpoot/GoFr_CRUD_API/blob/main/Working%20Project%20Screenshots/Screenshot%20from%202023-12-18%2007-21-33.png)
