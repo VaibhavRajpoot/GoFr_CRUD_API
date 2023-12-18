@@ -22,7 +22,8 @@ go run main.go
 5. Now open up the postman and check the working of all the CRUD operations.
 
 ## UML and Sequence Diagrams
-
+SEQUENCE DIAGRAM
+![My Image](/UML & Sequence Diagrams/SequenceDiagram.png)
 
 
 ## Postman Images of working Project
